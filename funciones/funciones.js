@@ -21,7 +21,7 @@ const miVariable = function(parametro1, parametro2){
 */
 
 
-// Hosting => JavaScript prioriza las funciones y las guarda en memoria
+// Hosting => JavaScript prioriza las funciones declarativas y las guarda en memoria
  
 // ----- Ejercicios -----
 
