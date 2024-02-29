@@ -267,3 +267,19 @@ console.log(arrSplice);
 
 // Me da el array modificado 
 console.log(arrNum21);
+
+/* ---------------------------------------------------------------------------------------------------------------------------------- */
+
+// 21) Usando el metodo foreach
+// forEach => El método forEach() ejecuta la función indicada una vez por cada elemento del array. 
+// Podemos entender a forEach como -> "Por cada elemento del array, haz esto"
+
+
+const arrNum22 = [1, 2, 3, 4, 5]
+arrNum22.forEach( e => console.log(e))
+
+function retornaValor(valor, index){
+    console.log(`${valor} esta en la posición ${index}`);
+}
+
+arrNum22.forEach(retornaValor)
