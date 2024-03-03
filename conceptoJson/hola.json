@@ -1,0 +1,29 @@
+
+
+[
+    {
+        "nombre" : "Cristiano",
+        "apellido" : "Ronaldo",
+        "edad" : 35,
+        "equipo" : ["Real Madrid", 
+                    "Manchester United", 
+                    "Juventus",
+                    "Sporting Lisboa",
+                    "All Nassr"]
+    },
+    {
+        "nombre" : "Lionel",
+        "apellido" : "Messi",
+        "edad" : 33,
+        "equipo" : ["Barcelona", 
+                    "Paris Saint Germain"]
+    },
+    {
+        "nombre" : "Neymar",
+        "apellido" : "Jr",
+        "edad" : 29,
+        "equipo" : ["Santos", 
+                    "Barcelona", 
+                    "Paris Saint Germain"]
+    }
+]

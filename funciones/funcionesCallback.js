@@ -1,5 +1,14 @@
 // Funcion callback => Función que recibe como parametro otra Función
 
+// Otro ejemplo de funcion callback
+
+const operation = (num1, num2, op) => {
+    return op(num1, num2)
+}
+
+console.log(operation(5, 6, (num1, num2) => num1 + num2));
+
+
 // ---- Ejercicio ----
 
 

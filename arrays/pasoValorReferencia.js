@@ -18,5 +18,6 @@ console.log(nArray);
 
 nArray.push(4)
 
+// Al modificar el array nArray, también se modifica el array miArray.
 console.log(miArray);
 console.log(nArray);
